@@ -16,9 +16,10 @@ This project addresses a critical urban problem in Berlin: the vulnerability of 
 
 ## 📊 Data Sources
 Due to GitHub file size limits (>500 MB), raw datasets are not included in this repository. Please download them from the official **Berlin Open Data Portal**:
-* **Playgrounds:** [Spielplätze Berlin](https://daten.berlin.de/datensaetze/spielpl%C3%A4tze-berlin).
-* **Street Trees:** [Baumbestand Berlin - Straßenbäume](https://daten.berlin.de/datensaetze/baumbestand-berlin-stra%C3%9Fenb%C3%A4ume).
-* **Heat Index:** [Physiologisch Äquivalente Temperatur (PET) um 14:00 Uhr](https://pkk.berlin.de/).
+* **Street Trees:** [Baumbestand Berlin - Straßenbäume](https://drive.google.com/file/d/1jE3q-Ng7HFfBy-D3sdnfJ0fLUPpi2rs0/view?usp=sharing).
+* **Heat Index:** [Physiologisch Äquivalente Temperatur (PET) um 14:00 Uhr](https://drive.google.com/file/d/1nk6nH8Cj2U4QNfdipV1TbaZkvVgItQ6X/view?usp=sharing).
+* **Playgrounds:** [Spielplätze Berlin](https://drive.google.com/file/d/1aupzzbIPAYuRMoXouygcHOEWyCy5RL1-/view?usp=sharing).
+
 
 ## 📈 Key Results
 The analysis produced a "Priority Action List" for city planners. Highlights include:
