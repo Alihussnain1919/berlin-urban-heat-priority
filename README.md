@@ -37,3 +37,24 @@ The analysis produced a "Priority Action List" for city planners. Highlights inc
 * `Berlin_Heat_Risk.ipynb`: The primary Python notebook containing all analysis and visualization code.
 * `requirements.txt`: List of necessary Python libraries (Geopandas, Folium, etc.).
 * `graphs/`: Folder containing exported high-resolution PNGs of the results.
+
+
+# 📈 Project Visualizations
+
+This folder contains the graphical results of the Berlin Playground Heat & Shade analysis. These charts were generated using `matplotlib` and `seaborn` within the project notebook.
+
+### 1. Risk Index Distribution
+* **File:** `risk_histogram.png`
+* **Interpretation:** Displays how many playgrounds fall into specific risk categories. The "tail" on the right represents the most vulnerable sites.
+
+### 2. Priority Classification
+* **File:** `priority_bar_chart.png`
+* **Interpretation:** A summary of playgrounds categorized by action priority (High, Medium, Low) based on the 0.75 and 0.50 thresholds.
+
+### 3. District-Level Analysis
+* **File:** `district_comparison.png`
+* **Interpretation:** Comparison of the mean risk index across all Berlin districts. Higher bars in darker colors indicate districts requiring systemic intervention.
+
+### 4. Heat vs. Shade Correlation
+* **File:** `heat_vs_shade_scatter.png`
+* **Interpretation:** Visualizes the trade-off between thermal comfort (PET) and green infrastructure (Canopy %). The "Critical Zone" is the bottom-right quadrant.
