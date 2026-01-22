@@ -36,5 +36,4 @@ The analysis produced a "Priority Action List" for city planners. Highlights inc
 ## 📁 Repository Structure
 * `Berlin_Heat_Risk.ipynb`: The primary Python notebook containing all analysis and visualization code.
 * `requirements.txt`: List of necessary Python libraries (Geopandas, Folium, etc.).
-* `Presentation.pdf`: The final Master Project presentation slides.
 * `graphs/`: Folder containing exported high-resolution PNGs of the results.
